@@ -1,0 +1,2 @@
+motion_planning:motoman_config:motoman_description
+-DCATKIN_DEVEL_PREFIX=/home/shadic/RSD_WS/devel -DCMAKE_INSTALL_PREFIX=/home/shadic/RSD_WS/install -G Unix Makefiles
